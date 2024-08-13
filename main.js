@@ -6,67 +6,67 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Pergunta 1",
+        enunciado: "Qual sabor de pizza você prefere?",
         alternativas: [
             {
-                texto: "Texto 1.1",
-                afirmacao: "Afirmação 1.1"
+                texto: "Calabresa",
+                afirmacao: "O nome da sua"
             },
             {
-                texto: "Texto 1.2",
-                afirmacao: "Afirmação 1.2"
+                texto: "Quatro queijos",
+                afirmacao: "O nome da sua"
             }
         ]
     },
     {
-        enunciado: "Pergunta 2",
+        enunciado: "Você prefere doce ou salgado?",
         alternativas: [
             {
-                texto: "Texto 2.1",
-                afirmacao: "Afirmação 2.1"
+                texto: "Doce",
+                afirmacao: "Alma gêmea"
             },
             {
-                texto: "Texto 2.2",
-                afirmacao: "Afirmação 2.2"
+                texto: "Salgado",
+                afirmacao: "Alma gêmea"
             }
         ]
     },
     {
-        enunciado: "Pergunta 3",
+        enunciado: "Você prefere suco ou refrierante?",
         alternativas: [
             {
-                texto: "Texto 3.1",
-                afirmacao: "Afirmação 3.1"
+                texto: "Suco",
+                afirmacao: "Começa com"
             },
             {
-                texto: "Texto 3.2",
-                afirmacao: "Afirmação 3.2"
+                texto: "Refrigerante",
+                afirmacao: "Começa com"
             }
         ]
     },
     {
-        enunciado: "Pergunta 4",
+        enunciado: "Você prefere hamburguer ou pizza?",
         alternativas: [
             {
-                texto: "Texto 4.1",
-                afirmacao: "Afirmação 4.1"
+                texto: "Hamburguer",
+                afirmacao: "A letra"
             },
             {
-                texto: "Texto 4.2",
-                afirmacao: "Afirmação 4.2"
+                texto: "Pizza",
+                afirmacao: "A letra"
             }
         ]
     },
     {
-        enunciado: "Pergunta 5",
+        enunciado: "Você prefere istrogonofi de carne ou de frango?",
         alternativas: [
             {
-                texto: "Texto 5.1",
-                afirmacao: "Afirmação 5.1"
+                texto: "istrogonofi de carne",
+                afirmacao: "G"
             },
             {
-                texto: "Texto 5.2",
-                afirmacao: "Afirmação 5.2"
+                texto: "Istrogonofi de frango",
+                afirmacao: "F"
             }
         ]
     },
