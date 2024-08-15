@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Suco",
-                afirmacao: "Começa com"
+                afirmacao: "começa com"
             },
             {
                 texto: "Refrigerante",
-                afirmacao: "Começa com"
+                afirmacao: "começa com"
             }
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Hamburguer",
-                afirmacao: "A letra"
+                afirmacao: "a letra"
             },
             {
                 texto: "Pizza",
-                afirmacao: "A letra"
+                afirmacao: "a letra"
             }
         ]
     },
